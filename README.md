@@ -1,0 +1,1 @@
+# OpenGL-FPS-CameraSimple OpenGL camera for FPS games.## Usage```cppCamera camra;camera.update(); // updates projection and view matrixcamera.setPosition(position)camera.setYawPitch(yaw, pitch);```
